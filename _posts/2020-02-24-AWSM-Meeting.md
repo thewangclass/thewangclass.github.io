@@ -2,6 +2,7 @@
 layout: post
 title: "Spring 2020 AWSM CS Meeting"
 date: 2020-02-23
+categories: workshop notes
 ---
 
 Here is the schedule:

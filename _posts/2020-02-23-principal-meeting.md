@@ -2,6 +2,7 @@
 layout: post
 title: "Pre-Observation Meeting with Principal"
 date: 2020-02-23
+categories: observation
 ---
 
 I had my pre-observation meeting with my principal this past Friday. Right now it is Sunday and I am writing this on a mattress on the floor of my friend's place in Austin. Weather is cloudy, cool (low 60s), and not humid. Wondering if weather affects what/how I write which is why I am including it here.

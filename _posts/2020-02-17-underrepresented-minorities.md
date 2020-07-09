@@ -2,6 +2,7 @@
 layout: post
 title: "Increasing Females does not Automatically Include Minorities"
 date: 2020-02-17
+categories: equity, cs for all
 ---
 I was doing my weekly browse of twitter when an article tweeted by an AWSMCS lead caught my eye.
 
