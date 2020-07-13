@@ -27,6 +27,8 @@ Students' Success on AP Tests:
 
 Clubs Created:
 - Computer Science Club
+   
+   2019: Started after school coding clubs at Campbell Elementary, Gilmore Elementary, Victory Lakes Intermediate, and Creekside Intermediate schools
 
 Grants Won:
 - Project Based Learning w/ Raspberry Pi ($2800)
