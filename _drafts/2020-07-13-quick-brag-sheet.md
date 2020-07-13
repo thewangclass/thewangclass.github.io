@@ -43,7 +43,7 @@ Student Awards:
 - 2017-2018 UIL Region 17 - 3rd Place
 
 Favorite Projects:
-[Bongo Cat](https://academy.cs.cmu.edu/sharing/purplePuppy5425)
-[Programmer](https://academy.cs.cmu.edu/sharing/crimsonSheep0746)
-[Snake](https://academy.cs.cmu.edu/sharing/cornflowerBlueChimpanzee0133)
-[Digital Piano](https://academy.cs.cmu.edu/sharing/slateGrayGoldfish8024)
+- [Bongo Cat](https://academy.cs.cmu.edu/sharing/purplePuppy5425)
+- [Programmer](https://academy.cs.cmu.edu/sharing/crimsonSheep0746)
+- [Snake](https://academy.cs.cmu.edu/sharing/cornflowerBlueChimpanzee0133)
+- [Digital Piano](https://academy.cs.cmu.edu/sharing/slateGrayGoldfish8024)
