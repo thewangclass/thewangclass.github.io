@@ -27,6 +27,8 @@ Students' Success on AP Tests:
 
 Clubs Created:
 - Computer Science Club
+   
+   2019: Started after school coding clubs at Campbell Elementary, Gilmore Elementary, Victory Lakes Intermediate, and Creekside Intermediate schools
 
 Grants Won:
 - Project Based Learning w/ Raspberry Pi ($2800)
@@ -36,14 +38,14 @@ Research:
 - Research practitioner participant in [UT AWSM in CS](https://stemcenter.utexas.edu/news/ut-and-austin-isd-have-%E2%80%98awsm%E2%80%99-plan-get-more-women-computer-science)
 
 Student Awards:
-Congressional App Challenge (TX-14) - Xiaohan Liu - Winner - [LinguaLedo](https://weber.house.gov/news/documentsingle.aspx?DocumentID=570)
-CMU CS Academy Fall Semester Challenge - Jose - 1st Place - [Led Zeppelin](https://docs.google.com/presentation/d/1FKPUAN79oFi612b0escY27iI_23X5W3FDX-d-i0nT4U/edit?usp=sharing)
-2018-2019 UIL Region 17 - 2nd Place
-NASA HUNCH ISS Location App - Rory Eckel and Jacob Walters - 1st Place 
-2017-2018 UIL Region 17 - 3rd Place
+- Congressional App Challenge (TX-14) - Xiaohan Liu - Winner - [LinguaLedo](https://weber.house.gov/news/documentsingle.aspx?DocumentID=570)
+- CMU CS Academy Fall Semester Challenge - Jose - 1st Place - [Led Zeppelin](https://docs.google.com/presentation/d/1FKPUAN79oFi612b0escY27iI_23X5W3FDX-d-i0nT4U/edit?usp=sharing)
+- 2018-2019 UIL Region 17 - 2nd Place
+- NASA HUNCH ISS Location App - Rory Eckel and Jacob Walters - 1st Place 
+- 2017-2018 UIL Region 17 - 3rd Place
 
 Favorite Projects:
-[Bongo Cat](https://academy.cs.cmu.edu/sharing/purplePuppy5425)
-[Programmer](https://academy.cs.cmu.edu/sharing/crimsonSheep0746)
-[Snake](https://academy.cs.cmu.edu/sharing/cornflowerBlueChimpanzee0133)
-[Digital Piano](https://academy.cs.cmu.edu/sharing/slateGrayGoldfish8024)
+- [Bongo Cat](https://academy.cs.cmu.edu/sharing/purplePuppy5425)
+- [Programmer](https://academy.cs.cmu.edu/sharing/crimsonSheep0746)
+- [Snake](https://academy.cs.cmu.edu/sharing/cornflowerBlueChimpanzee0133)
+- [Digital Piano](https://academy.cs.cmu.edu/sharing/slateGrayGoldfish8024)
