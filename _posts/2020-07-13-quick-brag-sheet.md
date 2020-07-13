@@ -45,6 +45,10 @@ Student Awards:
 - 2017-2018 UIL Region 17 - 3rd Place
 
 Favorite Projects:
+- [Linux Sync App](https://github.com/Brod8362/linuxsync-app) 
+- [Kadoot](https://github.com/ColemanSandefur/Kadoot) - Coleman Sandefur
+- Ditto - Matthew Barnes, Kelly Dinh, Darian Rosenkranz
+- [Sumo Blocks](https://github.com/NathanaelGo/SumoBlocks-2) - Nathanael Goza
 - [Bongo Cat](https://academy.cs.cmu.edu/sharing/purplePuppy5425)
 - [Programmer](https://academy.cs.cmu.edu/sharing/crimsonSheep0746)
 - [Snake](https://academy.cs.cmu.edu/sharing/cornflowerBlueChimpanzee0133)
