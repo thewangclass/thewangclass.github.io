@@ -12,25 +12,28 @@ Getting 30 new computers next year! 25 of the ones Engineering will be getting a
 
 I think the year went pretty well. One thing I want to continue to improve on is showing my students the learning process - modeling it with my everyday life. That could be taking weekly video clips of me learning something (linux, networking, visual novel genre, dancing) and showing what I have learned. 
 
-**Goals**
-Video Game Design: 
+## Goals
+### Video Game Design: 
 - Large calendar overview with links to what we are doing each day
 - Fully fleshed out syllabus with units and expected number of days; tied into calendar
 - Daily lesson plans with scaffolding (lower and upper)
 - Helpful extras (assignments, fun links to further knowledge, etc)
 - Rubrics on 4-0 scale for every assignment
 - Mapped out curriculum of what I want to teach and TEKS assigned
-AP CS P:
+
+### AP CS P:
 - Check out Code.org AP CSP curriculum and go through it
 - Large calender overview
-AP CS A:
+
+### AP CS A:
 - Make at least three versions of each quiz
 - Make at least two versions of each test
 - Large calender overview with links to what we are doing each day
 - Fully fleshed out syllabus with units and expected number of days; tied into calendar
 - Daily lesson plans with scaffolding (lower and upper)
 - Helpful extras (assignments, fun links to further knowledge, etc)
-IS CS:
+
+### IS CS:
 - Mandate every student find a mentor outside (they can interact with this mentor however they want: more frequent, more guided, etc)
 - Student presentations via video conference to mentor + two other professionals, recorded
 - Data Structures and Algorithms course (UIL): practice quizzes/exams
@@ -38,18 +41,20 @@ IS CS:
 - Fully fleshed out syllabus with units and expected number of days; tied into calendar
 - Daily lesson plans with scaffolding (lower and upper)
 - Find time to curate/make videos/docs for everything
-PreAP CS:
+
+### PreAP CS:
 - CMU CS Academy start
 - Better scaffolded Raspberry Pi projects
 - Cybersecurity, more hands-on 
-Clubs/Teams:
+
+### Clubs/Teams:
 - Cybersecurity Club (CyberPatriots Team)
 - Women in Computer Science Club
 - UIL Academics Club
 - Computer Science Club (VR)
 
 
-**Video Game Design**
+## Video Game Design
 Everyone said they loved the physical, table top game creation as well as working in teams (complaints about teams though). Someone commented they did not enjoy presenting in front of people but they understood the importance of it. Some said the board game portion lasted too long. For Unity, I had a lot of comments about having to watch the videos and the tediousness of programming it. 
 
 I am glad people liked the table top game portion. I plan on keeping it. Teams were randomly chosen by me at beginning and then students could choose their teams - I will keep this as well. Students need to learn how to form teams they want to work with and to not tolerate leachers. I will keep the presentations. I will most likely shorten the board game portion; I will do this by either taking out challenges or perhaps by alternating group challenges with class-wide challenges with a discussion followed by a challenge followed by students all doing the same challenge. I think I will do it the second way because the topics covered in those challenges are very important. Maybe I will ask for the library again for those weeks so students can have ample space? But wait - I have a new classroom next year! More on that later.
@@ -61,17 +66,14 @@ One of my middle/high school friends who works as a game designer sat in on a pr
 > I will work for making different enemies like mutant or giant or etc. Thanks, mr.wang. I really glad you teach me this program this could be my future work. I want to  > take this course in college.
 > JP
 
+>Mr. Wang, thank you for an amazing school year that was sadly cut short. The least I can do as a student is to express my appreciation by saying a thank you as teachers >don’t receive the recognition they deserve. My dad also wanted to give a huge thank you for your hard work and giving me guidance to become successful.
+>
+>Mr. Wang, thank you for opening my mind to programming. Before being involved with technology, I wasn’t as interested in the subject of coding because of its >complications and difficulty. However, I was still fascinated by the complex computer languages. Once I found out that my uncle works as a computer programmer, it gave >me the vision and motivation to follow his steps in that career. With the help of a great teacher, I feel I’ve finally have moved into something I enjoy and received the >guidance to accomplish my goals. The activities and projects we perform in class are truly fun and I love how we can try new things to see what works. Your class is also >incredibly laid back and simple, it’s practically impossible to fail! Thank you again for an incredible job! Please have a well-deserved summer and I hope to see you >next year!
+>
+>Returning student (hopefully), 
+>
+>CP
 
-
-"
-Mr. Wang, thank you for an amazing school year that was sadly cut short. The least I can do as a student is to express my appreciation by saying a thank you as teachers don’t receive the recognition they deserve. My dad also wanted to give a huge thank you for your hard work and giving me guidance to become successful.
-
-Mr. Wang, thank you for opening my mind to programming. Before being involved with technology, I wasn’t as interested in the subject of coding because of its complications and difficulty. However, I was still fascinated by the complex computer languages. Once I found out that my uncle works as a computer programmer, it gave me the vision and motivation to follow his steps in that career. With the help of a great teacher, I feel I’ve finally have moved into something I enjoy and received the guidance to accomplish my goals. The activities and projects we perform in class are truly fun and I love how we can try new things to see what works. Your class is also incredibly laid back and simple, it’s practically impossible to fail! Thank you again for an incredible job! Please have a well-deserved summer and I hope to see you next year!
-
-Returning student (hopefully), 
-
-CP
-"
 
 "
 Hi Mr. Wang,
@@ -82,7 +84,7 @@ Sincerely,
 NF
 "
 
-**AP Computer Science Principles**
+## AP Computer Science Principles
 I am not sure I want to stick with the Mobile CSP curriculum. I used to think it was really cool students could programs apps, but the tablets we have (and even the emulator software) is unreliable at best. Code.org is better funded and seems to have more engaging activities/resources to use. I believe I will use this next year. I will miss Mobile CSP and it's very easy to use curriculum. I will probably pull stuff out from there when I deem Code.org not suitable enough. I also am thankful I am learning networking on the side so I can better explain the networking portions.
 
 Students didn't really like the POGIL activities. They actually wanted to switch seats more often to force them to work with different people and cooperate with different working styles. Students also reported the tests as being too hard/much/long throughout the school year. I adjusted each time but there are only so many units and so much material. Maybe cut down tests into two parts. 
@@ -108,8 +110,8 @@ Things to make the class better is make the students introduce themselves to eac
 JD
 "
 
-**AP Computer Science A**
-A lot of students said they liked the Josephus lab, Picture lab (accidental spuer hilarious filters), the making of cookies (intro to Objects), and most coding assignments. They enjoyed my Youtube videos.
+## AP Computer Science A
+A lot of students said they liked the Josephus lab, Picture lab (accidental super hilarious filters), the making of cookies (intro to Objects), and most coding assignments. They enjoyed my Youtube videos.
 Tests were iffy (scarred from my Syntax test) and students overall did not like the Inheritance labs provided by College Board. I understand their sentiment about the Inheritance labs - it was hard to get them started on another unit remotely, and then College Board says we don't have to learn it. 
 
 Many students said they wanted a faster pace - perhaps survey bias. However I would agree with them - I slowed the pace down and even spent more time on sections than usual for some students who really did not have the work ethic to be in the class. We were a whole month behind last year's pace. Another suggestion was to make the worksheets an actual grade; the student proposed giving paper handouts for basic worksheets and making it a required grade (for at least the first few units) to make sure people understand the very basics. Additionally, we could still grade them in class by turning them in and passing them back out to random people. The suggestions includes how to avoid grade inflation - by making all of the worksheets for a unit average for a quiz grade. 
@@ -161,7 +163,7 @@ I would say re-going over classes and objects (Ship, Monster). When we had start
 EF
 "
 
-**Independent Study: Computer Science**
+## Independent Study: Computer Science
 Had an awesome year with IS. We trained well and started UIL practice in Spring. We were sad about UIL canceling - yes it was online but I couldn't make my students spend time doing that when they had other pressing matters to work on - but we all know we would have claimed 1st in District for the first time in Clear Springs High School history for CS! Region... hahah we still have a ways to go.
 
 Liked: 
@@ -175,7 +177,7 @@ Change:
 Unfortunately no quotes from them atm. May ask for them later. However, great students off to great things.
 
 
-**Pre AP CS A**
+## PreAP CS
 Tried some new things this year. CMU CS Academy for a semester, Cyber Security topics for 3 weeks (co-taught some lessons with Mrs. Farrington of Forensics Science in the Library), Raspberry Pi projects w/ an introduction to Linux, Coronavirus (back to CMU CS Academy).
 
 All in all, I think CMU CS Academy is a great introduction to programming. However, I would do things a bit differently. I probably would only use it for the 1st NW and maybe the 2nd NW. I would also set aside time to deliver instruction via lecture, activity/role-play, and more. I may transition to some of Armstrong's Python stuff afterwards to introduce functions, conditionals, and loops - and then go back to CMU to reinforce. Data structures? Maybe. I think it would also be cool to embed Fluent Python and Automate the Boring Things within the curriculum. And for the Creative Tasks - do not allow students to reuse code from any past projects or exercises. Students did comment they wanted to switch around seats more often and go through some exercises to actually get to know their new seat-mate! It's interesting how I interpret what I think they want versus what they tell me via private submission.
