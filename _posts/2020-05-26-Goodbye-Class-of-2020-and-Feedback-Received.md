@@ -4,8 +4,12 @@ title: "Goodbye Class of 2020: Thoughts on the 19-20 School Year, Feedback Recei
 date: 2020-05-26
 categories: curriculum design
 ---
-End of another school year, and some more time to reflect on my practices and what worked and didn't work. As always, I asked all my students and received feedback from a large majority of them (via an assignment). Not everyone turned them in, but alas such is life.
+End of another school year, and some more time to reflect on my practices and what worked and didn't work. 
+
+As always, I asked all my students and received feedback from a large majority of them (via an assignment). Not everyone turned them in, but alas such is life.
+
 Getting 30 new computers next year! 25 of the ones Engineering will be getting and 5 decked out ready to go for VR. 5 Oculus Quests. New classroom that can seat 30 compared to my current barely-fit-squeezing 20. Excited to design the classroom. I really want to grow this program to become 1) the best in CCISD 2) the best in Houston 3) the best in Texas.
+
 I think the year went pretty well. One thing I want to continue to improve on is showing my students the learning process - modeling it with my everyday life. That could be taking weekly video clips of me learning something (linux, networking, visual novel genre, dancing) and showing what I have learned. 
 
 **Goals**
@@ -14,7 +18,7 @@ Video Game Design:
 - Fully fleshed out syllabus with units and expected number of days; tied into calendar
 - Daily lesson plans with scaffolding (lower and upper)
 - Helpful extras (assignments, fun links to further knowledge, etc)
-- Rubrics on 4|3|2|1|0 scale for every assignment
+- Rubrics on 4-0 scale for every assignment
 - Mapped out curriculum of what I want to teach and TEKS assigned
 AP CS P:
 - Check out Code.org AP CSP curriculum and go through it
@@ -54,10 +58,9 @@ For Unity - I really enjoy the Create with Code curriculum, but for students who
 
 One of my middle/high school friends who works as a game designer sat in on a presentation (more on this in IS: CS section) - I will make sure to repeat his advice of paper prototype and playtesting. I tried to emphasize it a lot this year but I think it fell on deaf ears. Maybe create a (t)rap remix of my friend saying that and loop it while students are working?
 
-"
-I will work for making different enemies like mutant or giant or etc. Thanks, mr.wang. I really glad you teach me this program this could be my future work. I want to take this course in college.
-JP
-"
+> I will work for making different enemies like mutant or giant or etc. Thanks, mr.wang. I really glad you teach me this program this could be my future work. I want to  > take this course in college.
+> JP
+
 
 
 "
