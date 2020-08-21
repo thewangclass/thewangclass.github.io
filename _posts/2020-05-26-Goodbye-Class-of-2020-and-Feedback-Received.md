@@ -4,7 +4,7 @@ title: "Goodbye Class of 2020: Thoughts on the 19-20 School Year, Feedback Recei
 date: 2020-05-26
 categories: curriculum design
 ---
-## Overview
+
 End of another school year, and some more time to reflect on my practices and what worked and didn't work. 
 
 As always, I asked all my students and received feedback from a large majority of them (via an assignment). Not everyone turned them in, but alas such is life.
@@ -68,6 +68,7 @@ For Unity - I really enjoy the Create with Code curriculum, but for students who
 One of my middle/high school friends who works as a game designer sat in on a presentation (more on this in IS: CS section) - I will make sure to repeat his advice of paper prototype and playtesting. I tried to emphasize it a lot this year but I think it fell on deaf ears. Maybe create a (t)rap remix of my friend saying that and loop it while students are working?
 
 > I will work for making different enemies like mutant or giant or etc. Thanks, mr.wang. I really glad you teach me this program this could be my future work. I want to  > take this course in college.
+>
 > JP
 
 >Mr. Wang, thank you for an amazing school year that was sadly cut short. The least I can do as a student is to express my appreciation by saying a thank you as teachers >don’t receive the recognition they deserve. My dad also wanted to give a huge thank you for your hard work and giving me guidance to become successful.
@@ -78,41 +79,39 @@ One of my middle/high school friends who works as a game designer sat in on a pr
 >
 >CP
 
-
-"
-Hi Mr. Wang,
-
-It's teachers appreciation week and I wanted to say how much I enjoyed having your class and learning about video game design. This class had made me appreciate all the small things about video games, and has sparked an interest in video game design altogether. Even when school is let out for summer, I will see if I can design my own video game and maybe even publish my game onto Steam or other video game launchers like Epic. Thank you for being my teacher. 
-
-Sincerely, 
-NF
-"
+> Hi Mr. Wang,
+> It's teachers appreciation week and I wanted to say how much I enjoyed having your class and learning about video game design. This class had made me appreciate all the > small things about video games, and has sparked an interest in video game design altogether. Even when school is let out for summer, I will see if I can design my own 
+> video game and maybe even publish my game onto Steam or other video game launchers like Epic. Thank you for being my teacher. 
+>
+> Sincerely, 
+> NF
 
 ### AP Computer Science Principles
 I am not sure I want to stick with the Mobile CSP curriculum. I used to think it was really cool students could programs apps, but the tablets we have (and even the emulator software) is unreliable at best. Code.org is better funded and seems to have more engaging activities/resources to use. I believe I will use this next year. I will miss Mobile CSP and it's very easy to use curriculum. I will probably pull stuff out from there when I deem Code.org not suitable enough. I also am thankful I am learning networking on the side so I can better explain the networking portions.
 
 Students didn't really like the POGIL activities. They actually wanted to switch seats more often to force them to work with different people and cooperate with different working styles. Students also reported the tests as being too hard/much/long throughout the school year. I adjusted each time but there are only so many units and so much material. Maybe cut down tests into two parts. 
 
-"
-Mr. Wang, thank you for teaching my favorite subject and for being one of the most generous teachers I know (I'm regret that I didn't take CS A last year haha, it would have been fun with you as my teacher)!
-HIL
-"
+> Mr. Wang, thank you for teaching my favorite subject and for being one of the most generous teachers I know (I'm regret that I didn't take CS A last year haha, it would > have been fun with you as my teacher)!
+>
+> HL
 
-"
-I really enjoyed your class and I learned so mmuch that I never knew even existed! You are a really great teacher and I will come say hi to you next year!
-CP
-"
+> I really enjoyed your class and I learned so mmuch that I never knew even existed! You are a really great teacher and I will come say hi to you next year!
+>
+> CP
+ 
+> Yes, I would. I learned to look at the applications and programs we use every day differently through this course (I can compare it to how Music Theory changed how I 
+> listen to music). I wish I love computer science and was just good at it but I realize now that there are a multitude of resources out there to learn/explore cs on my 
+> own. I acknowledge its importance in the modern world and especially in the field I am going into, Statistics and Data Science. Therefore, this class was valuable for 
+> me personally and I would recommend this class to anyone who uses technology regularly, which is like everyone.  
+>
+> XL
 
-" 
-Yes, I would. I learned to look at the applications and programs we use every day differently through this course (I can compare it to how Music Theory changed how I listen to music). I wish I love computer science and was just good at it but I realize now that there are a multitude of resources out there to learn/explore cs on my own. I acknowledge its importance in the modern world and especially in the field I am going into, Statistics and Data Science. Therefore, this class was valuable for me personally and I would recommend this class to anyone who uses technology regularly, which is like everyone.  
-XL
-"
-
-"
-One of the things that I enjoyed this year was the interactions in the classroom. I enjoyed the creative tasks that we had, because I get to choose the things that I do, and I enjoy doing stuff that I like and creating stuff based.
-Things to make the class better is make the students introduce themselves to each other because I think whenever you work with people you work better if things aren’t that weird and you kind of know the person.
-JD
-"
+> One of the things that I enjoyed this year was the interactions in the classroom. I enjoyed the creative tasks that we had, because I get to choose the things that I 
+> do, and I enjoy doing stuff that I like and creating stuff based.
+> Things to make the class better is make the students introduce themselves to each other because I think whenever you work with people you work better if things aren’t 
+> that weird and you kind of know the person.
+>
+> JD
 
 ### AP Computer Science A
 A lot of students said they liked the Josephus lab, Picture lab (accidental super hilarious filters), the making of cookies (intro to Objects), and most coding assignments. They enjoyed my Youtube videos.
@@ -122,50 +121,52 @@ Many students said they wanted a faster pace - perhaps survey bias. However I wo
 
 More on grades: another student suggested changing the way I did re-takes on quizzes. Before, I used to allow students to do corrections to get 1/2 back of what they missed. So if a student got a 60, students could do corrections to get up to an 80 (20 points back) depending on how much they accurately corrected. Students took advantage of this by not really understanding the material, asking friends for help, and copying verbatim what they said and submitting it. I countered this by allowing students to do a retake on their quiz for up to a 100 - however the 2nd grade would stick no matter what. Students had access to the first quiz to study from. However, many of the students who needed it did not end up taking this option (because?) and some great students didn't either for fear of a lower grade. To counteract this, I will try giving students an average of their two scores. 
 
-"
-I really enjoyed being your student and I am so glad for all of your help. I am sorry I wasnt the best student.
-EN
-"
+> I really enjoyed being your student and I am so glad for all of your help. I am sorry I wasnt the best student.
+> 
+> EN
 
-"
-Just general coding in class and the board games we played on half days or days with pep rally or something. It was nice since my class had a very relaxed environment, and coding in general was fun with the classmates and teacher I had. I know this is probably not possible, but keeping the pace of the class at what is supposed to be would be nice, but I know you have to consider those who are not really suited or trying in the class. You should keep making YouTube videos!
-JN
-"
+> Just general coding in class and the board games we played on half days or days with pep rally or something. It was nice since my class had a very relaxed environment, > and coding in general was fun with the classmates and teacher I had. I know this is probably not possible, but keeping the pace of the class at what is supposed to be 
+> would be nice, but I know you have to consider those who are not really suited or trying in the class. You should keep making YouTube videos!
+> 
+> JN
 
-"
-Coffee is temporary, water is eternal.
-JG
-"
+> Coffee is temporary, water is eternal.
+> 
+> JG
 
-"
-I would like you to know that you've been a great teacher throughout this year, thank you for teaching me!
-TT
-"
+> I would like you to know that you've been a great teacher throughout this year, thank you for teaching me!
+> 
+> TT
 
-"
-My favorite thing was honestly the labs. Because they challenged me to think outside the box with the content we were learning, but were still feasible given the information we knew. The only thing I could ask for is a little more clarity on when an assignment is assigned and due. Nothing new, other than I really appreciate these classes.
-CK
-"
+> My favorite thing was honestly the labs. Because they challenged me to think outside the box with the content we were learning, but were still feasible given the 
+> information we knew. The only thing I could ask for is a little more clarity on when an assignment is assigned and due. Nothing new, other than I really appreciate 
+> these classes.
+> 
+> CK
 
-"
-I never had a bad time in this class. My favorite assignment was probably the cookie making assignment, and my favorite general moment was beating everyone in Smash.
-XP
-"
+> I never had a bad time in this class. My favorite assignment was probably the cookie making assignment, and my favorite general moment was beating everyone in Smash.
+> 
+> XP
 
-"
-I really loved the cookie activity. I felt that it was a nice break from more vigorous learning methods, and it helped me understand the concept a little bit better. I would have liked more opportunities for group work. In a real life setting, programmers often work in pairs in order to complete better work.
-EP
-"
+> I really loved the cookie activity. I felt that it was a nice break from more vigorous learning methods, and it helped me understand the concept a little bit better. I > would have liked more opportunities for group work. In a real life setting, programmers often work in pairs in order to complete better work.
+> 
+> EP
 
-"
-The filter labs, the bonus labs were super fun to figure out and when you messed up there typically wasn't an error but rather a hilarious looking filter that you created accidentally. OR the frq practice because it made me feel prepared for the AP exam. Yes, this was my favorite class. I enjoy the challenge and think it is somewhat my hardest class, however it is applicable to my future occupation. Honestly, the practice FRQs were really helpful and the way you set them up encouraged me to actually do them because of the FRQ you would make at the end of the week. I feel like that was a good setup, and how you were doing the curriculum prior to Spring break was good as well. You prepared me well for the AP exam both in and out of quarantine.
-JE
-"
+> The filter labs, the bonus labs were super fun to figure out and when you messed up there typically wasn't an error but rather a hilarious looking filter that you 
+> created accidentally. OR the frq practice because it made me feel prepared for the AP exam. Yes, this was my favorite class. I enjoy the challenge and think it is 
+> somewhat my hardest class, however it is applicable to my future occupation. Honestly, the practice FRQs were really helpful and the way you set them up encouraged me 
+> to actually do them because of the FRQ you would make at the end of the week. I feel like that was a good setup, and how you were doing the curriculum prior to Spring 
+> break was good as well. You prepared me well for the AP exam both in and out of quarantine.
+>
+> JE
 
-"
-I would say re-going over classes and objects (Ship, Monster). When we had started to learn it back in Pre-AP Comp. Sci. Principles, I really struggled with it. It was a major relief/confidence boost when I got the hang of it this year. 2D Arrays was the Unit I struggled with the most. It was tricky to keep track of 2 separate arrays and what aspect of change each array represented. The worst example of this was the Java Image Lab. There were certain rules that each filter followed, and it was difficult trying to figure whether you had to change the row or the column. I suggest using videos that go over the topic discussed. Maybe you could go over/show solutions to example problems that deal it as well. Yes; while there were definitely some ups and downs, I’m leaving this class knowing that I’ve added a new skill to my arsenal. You could have provided a brief insight into the upcoming unit by introducing us to the Celebrity Assignment early. That way we could be better associated with it. You should really follow through on that teach-switch with Mr. Zachow. It would be pretty interesting to your future students. 
-EF
-"
+> I would say re-going over classes and objects (Ship, Monster). When we had started to learn it back in Pre-AP Comp. Sci. Principles, I really struggled with it. It was > a major relief/confidence boost when I got the hang of it this year. 2D Arrays was the Unit I struggled with the most. It was tricky to keep track of 2 separate arrays > and what aspect of change each array represented. The worst example of this was the Java Image Lab. There were certain rules that each filter followed, and it was 
+> difficult trying to figure whether you had to change the row or the column. I suggest using videos that go over the topic discussed. Maybe you could go over/show 
+> solutions to example problems that deal it as well. Yes; while there were definitely some ups and downs, I’m leaving this class knowing that I’ve added a new skill to 
+> my arsenal. You could have provided a brief insight into the upcoming unit by introducing us to the Celebrity Assignment early. That way we could be better associated 
+> with it. You should really follow through on that teach-switch with Mr. Zachow. It would be pretty interesting to your future students. 
+>
+> EF
 
 ### Independent Study: Computer Science
 Had an awesome year with IS. We trained well and started UIL practice in Spring. We were sad about UIL canceling - yes it was online but I couldn't make my students spend time doing that when they had other pressing matters to work on - but we all know we would have claimed 1st in District for the first time in Clear Springs High School history for CS! Region... hahah we still have a ways to go.
