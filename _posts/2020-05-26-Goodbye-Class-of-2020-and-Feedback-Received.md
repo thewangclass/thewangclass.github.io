@@ -4,6 +4,7 @@ title: "Goodbye Class of 2020: Thoughts on the 19-20 School Year, Feedback Recei
 date: 2020-05-26
 categories: curriculum design
 ---
+## Overview
 End of another school year, and some more time to reflect on my practices and what worked and didn't work. 
 
 As always, I asked all my students and received feedback from a large majority of them (via an assignment). Not everyone turned them in, but alas such is life.
@@ -11,6 +12,8 @@ As always, I asked all my students and received feedback from a large majority o
 Getting 30 new computers next year! 25 of the ones Engineering will be getting and 5 decked out ready to go for VR. 5 Oculus Quests. New classroom that can seat 30 compared to my current barely-fit-squeezing 20. Excited to design the classroom. I really want to grow this program to become 1) the best in CCISD 2) the best in Houston 3) the best in Texas.
 
 I think the year went pretty well. One thing I want to continue to improve on is showing my students the learning process - modeling it with my everyday life. That could be taking weekly video clips of me learning something (linux, networking, visual novel genre, dancing) and showing what I have learned. 
+
+---
 
 ## Goals
 ### Video Game Design: 
@@ -53,8 +56,9 @@ I think the year went pretty well. One thing I want to continue to improve on is
 - UIL Academics Club
 - Computer Science Club (VR)
 
-
-## Video Game Design
+---
+## Reflections for each class
+### Video Game Design
 Everyone said they loved the physical, table top game creation as well as working in teams (complaints about teams though). Someone commented they did not enjoy presenting in front of people but they understood the importance of it. Some said the board game portion lasted too long. For Unity, I had a lot of comments about having to watch the videos and the tediousness of programming it. 
 
 I am glad people liked the table top game portion. I plan on keeping it. Teams were randomly chosen by me at beginning and then students could choose their teams - I will keep this as well. Students need to learn how to form teams they want to work with and to not tolerate leachers. I will keep the presentations. I will most likely shorten the board game portion; I will do this by either taking out challenges or perhaps by alternating group challenges with class-wide challenges with a discussion followed by a challenge followed by students all doing the same challenge. I think I will do it the second way because the topics covered in those challenges are very important. Maybe I will ask for the library again for those weeks so students can have ample space? But wait - I have a new classroom next year! More on that later.
@@ -84,7 +88,7 @@ Sincerely,
 NF
 "
 
-## AP Computer Science Principles
+### AP Computer Science Principles
 I am not sure I want to stick with the Mobile CSP curriculum. I used to think it was really cool students could programs apps, but the tablets we have (and even the emulator software) is unreliable at best. Code.org is better funded and seems to have more engaging activities/resources to use. I believe I will use this next year. I will miss Mobile CSP and it's very easy to use curriculum. I will probably pull stuff out from there when I deem Code.org not suitable enough. I also am thankful I am learning networking on the side so I can better explain the networking portions.
 
 Students didn't really like the POGIL activities. They actually wanted to switch seats more often to force them to work with different people and cooperate with different working styles. Students also reported the tests as being too hard/much/long throughout the school year. I adjusted each time but there are only so many units and so much material. Maybe cut down tests into two parts. 
@@ -110,7 +114,7 @@ Things to make the class better is make the students introduce themselves to eac
 JD
 "
 
-## AP Computer Science A
+### AP Computer Science A
 A lot of students said they liked the Josephus lab, Picture lab (accidental super hilarious filters), the making of cookies (intro to Objects), and most coding assignments. They enjoyed my Youtube videos.
 Tests were iffy (scarred from my Syntax test) and students overall did not like the Inheritance labs provided by College Board. I understand their sentiment about the Inheritance labs - it was hard to get them started on another unit remotely, and then College Board says we don't have to learn it. 
 
@@ -163,7 +167,7 @@ I would say re-going over classes and objects (Ship, Monster). When we had start
 EF
 "
 
-## Independent Study: Computer Science
+### Independent Study: Computer Science
 Had an awesome year with IS. We trained well and started UIL practice in Spring. We were sad about UIL canceling - yes it was online but I couldn't make my students spend time doing that when they had other pressing matters to work on - but we all know we would have claimed 1st in District for the first time in Clear Springs High School history for CS! Region... hahah we still have a ways to go.
 
 Liked: 
@@ -177,7 +181,7 @@ Change:
 Unfortunately no quotes from them atm. May ask for them later. However, great students off to great things.
 
 
-## PreAP CS
+### PreAP CS
 Tried some new things this year. CMU CS Academy for a semester, Cyber Security topics for 3 weeks (co-taught some lessons with Mrs. Farrington of Forensics Science in the Library), Raspberry Pi projects w/ an introduction to Linux, Coronavirus (back to CMU CS Academy).
 
 All in all, I think CMU CS Academy is a great introduction to programming. However, I would do things a bit differently. I probably would only use it for the 1st NW and maybe the 2nd NW. I would also set aside time to deliver instruction via lecture, activity/role-play, and more. I may transition to some of Armstrong's Python stuff afterwards to introduce functions, conditionals, and loops - and then go back to CMU to reinforce. Data structures? Maybe. I think it would also be cool to embed Fluent Python and Automate the Boring Things within the curriculum. And for the Creative Tasks - do not allow students to reuse code from any past projects or exercises. Students did comment they wanted to switch around seats more often and go through some exercises to actually get to know their new seat-mate! It's interesting how I interpret what I think they want versus what they tell me via private submission.
@@ -186,8 +190,6 @@ I do think Cybersecurity should be taught. Maybe via this [link](https://teachin
 
 And unfortunately due to Covid-19 we did not get to drones. 
 
-
-
-
 ---
+
 Lots of things to do and get ready for before the next school year! Excited!
