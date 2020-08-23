@@ -188,7 +188,7 @@ Tried some new things this year. CMU CS Academy for a semester, Cyber Security t
 All in all, I think CMU CS Academy is a great introduction to programming. However, I would do things a bit differently. I probably would only use it for the 1st NW and maybe the 2nd NW. I would also set aside time to deliver instruction via lecture, activity/role-play, and more. I may transition to some of Armstrong's Python stuff afterwards to introduce functions, conditionals, and loops - and then go back to CMU to reinforce. Data structures? Maybe. I think it would also be cool to embed Fluent Python and Automate the Boring Things within the curriculum. And for the Creative Tasks - do not allow students to reuse code from any past projects or exercises. Students did comment they wanted to switch around seats more often and go through some exercises to actually get to know their new seat-mate! It's interesting how I interpret what I think they want versus what they tell me via private submission.
 
 I do think Cybersecurity should be taught. Maybe via this [link](https://teachingsecurity.org/) or NICERC activities. Less lecture more hands-on activities where students can both move around and actually play around with things in a sandbox environment. 
-
+ 
 And unfortunately due to Covid-19 we did not get to drones. 
 
 ---

@@ -12,7 +12,7 @@ AP CS P: thoughts on curriculum Mobile CSP
 
 It's the end of the first semester of school! What a semester. I am grateful for these brief periods of time where I can take a step back from the day-to-day of the classroom and have an opportunity to sit back, relax, and reflect on improving my teaching practices. 
 
-**What I really liked:**
+### What I really liked:
 This semester was the jumpstart of our outreach activities to local schools. We managed to get an after school computer science club going in Gilmore Elementary with one of my students acting as the liaison/volunteer. We have plans to do the same at Campbell Elementary and Creekside Intermediate next semester. League City Intermediate is a possibility - need to find out who to contact, and Ross + Bauerschlag are other possibilites as well.
 
 We also had our first Winter Holiday Computer Science party! I drew inspiration for this from my time in high school; every year we would have a fun party in orchestra right after school near finals. We also were able to do the White Elephant gift exchange using the Mr. Right/Left story. That was one of the highlights of my high school life that I still have very fond memories of - I wanted my students to be given the same opportunity. 
