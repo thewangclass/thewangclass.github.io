@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Became A Teacher"
-date: 2019-08-24
+date: 2020-09-30
 ---
 
 > *"How did I end up a teacher?"*
