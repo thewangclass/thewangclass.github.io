@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I Became A Teacher"
+date: 2019-08-24
 ---
 
 > *"How did I end up a teacher?"*
@@ -27,5 +28,20 @@ Fast-forward. I took OChem and PChem, Genetics and various labs, and took care o
 
 The summer after my freshman year, I shadowed a cardiologist near where I grew up. I watched as he spent but the briefest of moments with each patient, barely taking any time to make conversation and only making his rounds. I don't fault him for it - I don't know the demands of cardiologists and how many patients he had to see (he had to commute between two different hospitals) - but it was far different from the picture painted by the books I read as a kid (looking at you The Christmas Shoes and My Sister's Keeper). Based on this perception of working as a physician, I decided I did not want to become one. 
 
-Now I had a conundrum, what career path to follow? Becoming a doctor, pursuing a graduate degree, both of these were no longer options for me. One option was left - entering the industry with a bachelors degree, which wasn't ideal for a biomedical engineer. It was this time, Fall of my Sophomore year, when I found out one of my friends was taking a teaching class through the UTeach program. I thought, "Why not?" and signed up for the class with them. Wow - what a blast. Besides a not-so-great teaching partner, I had a blast learning about the theory of how people learn, teaching elementary schoolers, and the great community. I took the next course, then the next, then the next, and by the end of junior year I was strongly considering going into teaching after I retired from a career in engineering. 
+Now I had a conundrum, what career path to follow? Becoming a doctor, pursuing a graduate degree, both of these were no longer options for me. One option was left - entering the industry with a bachelors degree, which wasn't ideal for a biomedical engineer. It was this time, Fall of my Sophomore year, when I found out one of my friends was taking a teaching class through the UTeach program. I thought, "Why not?" and signed up for the class with them. Wow - what a blast. Besides a not-so-great teaching partner, I had a blast learning about the theory of how people learn, teaching elementary schoolers, and the great community. I took the next course, then the next, and by the end of sophomore year I was strongly considering going into teaching after I retired from a career in engineering. 
+
+This all changed in late July. I visited my home church to debrief them and got into a conversation with an old family friend. This auntie had a daughter that had also studied biomedical engineering. I started sharing about my idea of becoming a teacher and the auntie immediately started saying, in an incredulous tone, why I would do something like that. Why would you put all that effort in getting a biomedical engineering degree only to become a teacher? In Asian culture, you don't talk back to your elders, especially aunties you grew up with. However, I was definitely fuming, albeit silently. As I withstood the barrage of rebuke, I started thinking about going directly into teaching as a form of rebellion. And - the more I thought about it, why not?
+
+Why not go into teaching right after college? This idea started taking root in the deepest parts of my mind. 
+I thought more about it - why not? What was keeping me from going into teaching? After some further thought, I managed to break my reasons down into manageable chunks:
+1. I valued security. Engineering jobs are pretty steady and I thought it would be fairly simple for me to get a job.
+2. I valued the ability to provide for my family as the breadwinner. Being able to make enough money to allow my spouse to stay at home if they wanted to, and being able to support and raise and send kids to college - what an idea.
+3. I valued the prestige. If you're an engineer, you're looked upon as someone having a great career, even moreso in Asian cultures. Despite not wanting to give value to this - I did.
+4. I valued creating. There's the idea of creating things unique to yourself that I have always liked. Being able to solve problems and create solutions to things was something I wanted to find in a job. 
+
+I evaluated these values with my other values: being independent, breaking norms, doing what I want to do and like to do, doing what I feel called to do at this point in my life, my past experiences, finding meaning, and more. Long story short, after a long period of introspection and thought, I decided to go right into teaching after graduating.
+
+Afterwards, I focused my coursework and extracurriculars on becoming the best teacher I could be. That's how I got into upper division math and programming courses, TA-ing for classes, and other stuff.
+
+That is the story of how I embarked on my teaching career. There's more to tell - how I started teaching computer science, my philosophy on grades, my extracurriculars/jobs - but that will be for another time. 
 
