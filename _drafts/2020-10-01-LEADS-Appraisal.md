@@ -103,20 +103,18 @@ Make club and UIL accessible for all levels of cs students so more can join and 
 ## Goals for Increased Performance
 ### What goals will guide my instructional decisions and improvement efforts?
 
-CS Campus Goal:
-Broaden everyone’s understanding of who can become a computer scientist and refine their understanding of what a computer scientist does.
-
-CS Team Goal:
-Work with Sarten to increase student confidence, sense of belonging, and influence our students' circle of influence about computer science.
-
-CS Individual Goal:
-Continue to refine my curriculum and find great curriculum and lead the CS team to be inclusive to all.
+What you want to do.
+How I will do it. "We will accomplish this by..."
+How I will evaluate it. "To assess our progress toward this goal, we will..."
 
 STEM Campus Goal:
 Throughout the 2020-21 school year, we will help all students have clarity about where they are and how to grow. We will accomplish this by developing clear learning targets and success criteria, aligning assessments and student learning experiences, intentionally referencing learning targets and success criteria throughout daily instruction, monitoring and adjusting, providing targeted feedback, and offering regular opportunities for student reflection. To assess our progress toward this goal, we will routinely share, examine, and respond to formative assessment data in our PLCs.
 
 STEM Team Goal:
 Throughout the 2020-2021 school year, we will facilitate real-time communication, encourage our students to take the initiative with their engagement, and improve their technology literacy.  We will accomplish this goal by providing flexibility in communication with e-mails, discussion boards, and Teams Meetings; we are increasing our focus on learning, providing more virtual lab opportunities, and increasing our online presence; and we are providing application and software tutorials, opportunities for in-class troubleshooting, and providing online organizational tools and resources.  To assess our progress towards this goal, we will monitor an increase in student work submittals, we will see a decrease in technology-related issues and troubleshooting questions, and we will see an increase in a higher quality of student work, projects, and presentations.
+
+CS Individual Goal:
+Throughout the 2020-2021 school year, I will continue to refine my curriculum and find great curriculum to lead the CS team to be inclusive to all. I will accomplish this by 1) evaluating curriculum before school begins and choosing a teaching AND learning style that will cater to our unique learning environment; 2) establishing a great classroom environment at the start of school and reinforcing it throughout the school year; and 3) enabling all students to be successful by growing their ownership of learning and taking into consideration their unique circumstances. I will evaluate my progress towards this goal by 1) administering a survey before my conference to gauge student beliefs about their ability to succeed in computer science, classmates' names, thoughts about the classroom environment itself and how conducive it is to learning, computer science career paths, and more; 2) gathering data for 2021-2022 students and evaluating for overall growth, female:male ratio, and underrepresented minorities in CS growth.
 <br></br>
 
 ## Areas to Refine
