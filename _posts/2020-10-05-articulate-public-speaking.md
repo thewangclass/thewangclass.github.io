@@ -3,14 +3,11 @@ layout: post
 title: My Growth in Public Speaking
 date: 2020-10-05
 ---
-
-# My Growth in Public Speaking
-
 > **"Charles is so articulate."**
 
 Never did I think I would be described as being articulate, yet someone at Sunday School described me as such during a discussion involving C.S. Lewis' Screwtape Letters. I was flattered by the compliment; however, I know it was a long journey to get to where I am now. I've been meaning to write about this journey and - with my Independent Study students giving a presentation later this week - figured I would write this now and tie it in with presentations and public speaking.
 
-<br></br>
+<br>
 
 I remember the first time I became aware I talked differently than other people. I was in 8th grade, hanging out in the orchestra room, when one of my friends commented on my lisp. I had never heard of a lisp before, but my friend described it as slurring my s. I became hyper-aware of my speech "defect", shying away from speaking out loud and sharing. 
 
@@ -18,7 +15,7 @@ I tried making it cool to myself - I would joke around and think 'Wow I can spea
 
 Oh, I forgot to mention I ran for NHS President and Orchestra President at the end of my junior year. Suffice to say, I didn't win any of the positions - they went to the better candidates honestly. Parodying Taylor Swift's "You Belong With Me" and running on a platform of cookies definitely did not help. 
 
-<br></br>
+<br>
 
 My next memory of being acutely aware of speaking in front of others was the summer after my sophomore year of college, when I traveled to Southeast Asia and was asked to give a message to a local church. I don't remember the preparation for the message; all I remember was standing up there and thinking everyone in my audience was 'against' me and it was my job to win them over and convince them of my correctness. Of course that's not how it actually was - they were rooting for me and wanted to hear what I had to say - but that was my mindset at the time. It was my first time speaking to such a large group of people since graduating high school.
 
@@ -28,7 +25,7 @@ One memory that stands out to me my junior year is when I was driving some peopl
 
 I'm not sure what transpired between my junior and senior year. Maybe it was being a 6th grade math teacher for Breakthrough Austin and getting some great teaching experience. Maybe it was just time and maturity. Maybe love, friends, or some other things - my new position as the admin for my campus ministry club? Regardless, I was once again asked to share in front of a large conference, the 2016-2017 Cru Winter Conference Red River Region. However, this time I did not stay up all night preparing and planning and fretting. Rather, I prepped a bit, practiced a little, and went to sleep at a reasonable hour. And you know what? My sharing went fine. In my mind though, I felt super great - better than I had ever felt about public speaking. I realized that some chains of my past were finally gone. 
 
-<br></br>
+<br>
 
 I've grown even more since then in my public speaking ability. It might have to do with me having to speak to over 150 students every day and getting to know another batch every year. Maybe it's more maturity, more experience, more self-confidence. Maybe it's feeling like I am given the room to speak and people are interested in what I have to say. Maybe it's... a lot of things. 
 
