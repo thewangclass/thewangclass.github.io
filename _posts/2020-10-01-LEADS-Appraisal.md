@@ -3,7 +3,7 @@ layout: post
 title: Pre-Conference Meeting w/ The Principal
 date: 2020-10-01
 ---
-# Introduction
+
 Currently 6:45 AM as I sit here in my classroom, beginning the brainstorming process of everything I would like to discuss with my appraiser (the principal) for this year.
 
 I woke up at 4:00 AM today, got up at 4:15, did some yoga, ate breakfast/brushed teeth, and was out the door by 5:45 AM. Arrived at school by 6:30 AM, prepared for the day, and sat down at the computer to type this.
@@ -46,14 +46,15 @@ Discussions about my Self Report 1 GAP Analysis:
   - I then normalized the practice of asking for another student's name if they forget their name. How? By modeling (continuously) me asking students for their names and owning up to not knowing their names. 
   - Video Game Design: I started off the school year differently than previous years. Previously I would start off the school year by having students play games and evaluating them - however this year I started with more 'rigorous' activities. I think it set the tone for the students to expect to do work in the class.
 
-<br></br>
+<br>
 
-# LEADS Teacher Self Report 1 GAP Analysis
+### LEADS Teacher Self Report 1 GAP Analysis
 Onto the Self Report Questions. I'm going to go ahead and copy+paste the questions and my responses. I wrote this maybe beginning of 2nd week of school, when everything was pretty much still online? Hopefully I can elaborate on them.
-<br></br>
 
-## Needs Assessment and GAP Analysis: What is the GAP between here I am and where I want to be?
-### Gather Data: What are my insights from analyzing my student achievement data (informal/formal)?
+<br>
+
+#### Needs Assessment and GAP Analysis: What is the GAP between here I am and where I want to be?
+#### Gather Data: What are my insights from analyzing my student achievement data (informal/formal)?
 
 Overall: 
 Streamline course offerings.
@@ -73,9 +74,10 @@ Results from AP exams were as I expected going into it. I expected a small group
 
 IS:
 Great results. Really like idea of having students invite industry people in for their talk.
-<br></br>
 
-### Plan for Differences: What methods of differentiation will I incorporate to address the achievement gaps?
+<br>
+
+#### Plan for Differences: What methods of differentiation will I incorporate to address the achievement gaps?
 
 Overall:
 Increase student achievement across all 'levels'.
@@ -100,8 +102,8 @@ Club:
 Make club and UIL accessible for all levels of cs students so more can join and feel like they belong (even 1st eyar).
 <br></br>
 
-## Goals for Increased Performance
-### What goals will guide my instructional decisions and improvement efforts?
+#### Goals for Increased Performance
+#### What goals will guide my instructional decisions and improvement efforts?
 
 What you want to do.
 How I will do it. "We will accomplish this by..."
@@ -117,8 +119,8 @@ CS Individual Goal:
 Throughout the 2020-2021 school year, I will continue to refine my curriculum and find great curriculum to lead the CS team to be inclusive to all. I will accomplish this by 1) evaluating curriculum before school begins and choosing a teaching AND learning style that will cater to our unique learning environment; 2) establishing a great classroom environment at the start of school and reinforcing it throughout the school year; and 3) enabling all students to be successful by growing their ownership of learning and taking into consideration their unique circumstances. I will evaluate my progress towards this goal by 1) administering a survey before my conference to gauge student beliefs about their ability to succeed in computer science, classmates' names, thoughts about the classroom environment itself and how conducive it is to learning, computer science career paths, and more; 2) gathering data for 2021-2022 students and evaluating for overall growth, female:male ratio, and underrepresented minorities in CS growth.
 <br></br>
 
-## Areas to Refine
-### What practices, if improved, will best help me reach my goals?
+#### Areas to Refine
+#### What practices, if improved, will best help me reach my goals?
 Starting off school year - I have learned that it really matters how you start. But also it never hurts to be real and do a reset.
 
 Club/UIL - recording and modifying curriculum to make it available to first year CS students day 1.
