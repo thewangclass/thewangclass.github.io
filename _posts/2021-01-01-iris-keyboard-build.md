@@ -3,7 +3,7 @@ layout: post
 title: "My First Keyboard Build - Iris"
 date: 2021-01-01
 ---
-Original (2020-11-18)
+Original (2020-11-18)  
 Yesterday I finished my first keyboard build! It is the Iris keyboard by keeb.io. I learned so much along the way.
 
 The keyboard was recommended to me by my girlfriend's brother. He recommended it as an entryway to see if I liked the split keyboard layout. I later also discovered it was ortholinear, so I decided to take the plunge and bought the pcbs and outer layers. I didn't buy any mid-layer initially because it was unnecessary. 
@@ -40,15 +40,14 @@ I ordered some Ergodox tenting legs around  with the plan of attaching them to m
 
 I did some research and discovered I had to buy some M3 female brass threaded inserts and heat them up with my soldering iron to insert them into my mid-layer. I tried looking for tutorials on how to use heated threaded inserts with 3D printed parts. I can't remember where exactly I read this, but for some reason I had the impression of setting my soldering temperature to 700F and attaching the threaded inserts. Well, it was way too hot and my 3D printed mid-layer (made from Inland PLA) quickly melted.
 
-![Melted 3D Printed Middle Layer](take/a/picture.jpg)
-
 Uh-oh. I had to reprint my midlayer. While it was reprinting, I did some testing with temperatures. I know that the PLA typically prints around 200-215F in my 3D printer, so I used that as the baseline for my tests. Setting the soldering temperature at 215F, I tried attaching the M3 brass insert. However, it took way too long. I cranked up the temperature by 50 degrees to 265 and this worked, but still took awhile. After some more testing, I ended up setting my temperature to 300F and this seemed to give me a nice balance between speed and the ability to safely add my threaded insert. 
 
-![Threaded Insert](take/a/picture.jpg)
-![Attaching the Ergodox Tenting Legs](take/a/picture.jpg)
-![Iris w/ Tenting Legs Top View]
-![Iris w/ Tenting Legs Side View]
-![Iris w/ Tenting Legs Complete]
+![Threaded Insert](/assets/images/M3_4_5.jpg)  
+![Threaded Insert Embedded](/assets/images/ThreadedInsert.jpg)
+![Iris w/ Ergodox Tent Legs](/assets/images/IrisCompleteErgodoxTentLegs.jpg)
+![Iris w/ Tenting Legs Side View](/assets/images/IrisCompleteSideView.jpg)
+![Iris w/ Tenting Legs Front View](/assets/images/IrisCompleteFrontView.jpg)
+![Iris w/ Tenting Legs Complete](/assets/images/IrisTentTop.jpg)
 
 One thing I realized after testing my setup for awhile was that I needed to change my keymap. Parentheses require some nimble dexterity and that's a big no-no for programming. 
 Another interest is trying out a different keyboard layout such as Dvorak. 
