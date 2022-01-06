@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Rest and Recovery - How I Use My Breaks"
+date: 2021-06-19
+---
+There's this concept of rest that I have been exploring and learning more of with each passing year. Questions such as "What is rest?" and "How do I rest?" inevitably end up leading to "How do I maximize my rest and optimize it so I can spend less time resting but still feel rested?".
+
+It's a little ironic that I try to optimize rest time, and I doubt I am alone in doing so. And I am not saying it is a bad thing either - rather it seems to be just another facet of being mortal and having not enough time to do what I want to do or things I hold in priority.
+
+That's a bit of a tangent, but that's what happens when you do stream of consciousness writing. 
+
+The reason I wanted to talk about rest and recovery right now is because I am starting to come off of resting and recovering from a long school year. I took three weeks of vacation and did my best to not think, talk, or worry about school. Why three weeks? A somewhat arbitrary number that I decided upon after only briefly considering my past history with how much rest I needed and times I gave myself too little/much time. And three weeks turned out to be a good amount of time - I felt an itch near the end where I was eagerly awaiting reading through pedogagy and teaching material to help me be ready for the upcoming school year.
+
+But I'm not here to talk about preparing for the upcoming school year right now. Instead, I want to discuss coming off of school and into a break; not necessarily just summer break, but also Thanksgiving, Christmas, and Spring break. 
+
+The first Saturday and Sunday don't really feel like a break. My body is still habituated into the normal 'weekend' and everything happens pretty much the same as my friends still go to work the following Monday. It is on Monday, however, that I feel my body and mind crash. I'm not sure exactly what or why it is, but without fail for the past 5 years, I just crash on Monday and stay that way for a couple of days. I get lethargic, don't really feel like doing anything, and sleep a lot. I also tend to get sick around this time. My suspicions are that I am always 'going' during the normal school time that I somehow subconsciously don't even allow myself to get sick - but really it is just pushing my exhaustion and symptoms towards the break when I can have the time to get sick. 
+
+Essentially, I 'allow' myself to get sick on breaks because I can't afford to get sick when I'm not on break. 
+
+I think this is a unique thing for me and teaching, because I cannot recall crashing when I worked as a barista. I feel an obligation to show up each and every day for my students; I have never taken an 'unexpected' day off work for the past 5 years, and I always make sure to tell my students weeks in advance of when I will be gone (preplanned). Hahah, it definitely seems like I plan when I am sick as well. Or maybe that's just my body/mind allowing me to and taking full advantage of it on breaks.
+
+Anyways, yeah - the first 3 days or so of break are spent being sick and resting/recuperating. Then, depending on how long the break is, I give myself to just have fun. Typically that's 1-2 days for week long breaks. Then, I start preparing my body and mind for school again. I am currently in a mixture of the second/third stage right now on summer break, as I am itching to prepare for school but also looking forward to going on trips with friends. That's another thing about teaching - we really only can take vacations during the height of travel season (and all the increased prices that go along with it...) and I miss just going on trips throughout the year with friends - Acadia NP during fall?!?!?
+
+I've been better about resting this year. This year was the first year I ever got a flu shot because of COVID-19. Additionally, I made sure to take at least 1 day off per month if there was no extended break that month - and even then I sometimes took off another day. I still always told my students beforehand when I would be gone. I tried to leave by 3:30 every day (6:30-3:30 schedule) and not take any work home. I managed to grade, contact parents, and everything within my time at school.
+
+My sister asked me the other day "Why do you do teacher stuff on your break" and I responded "When else do I have time lol". But really, when else would I have the time to write/find/curate/improve curriculum for AP CS Principles, AP CS A, Independent Study: CS, Video Game Design, and CyberSecurity? Thankfully there are lots of great curriculum out there now, but to be honest a lot of it by itself is bland and uninteresting. How do I make it my own and modify, scaffold, and extend it to excite my students?
+
+Every year, without fail, I also get asked about how teaching is going and whether I'm going to stick around. I have 5 more years left for my personal 10 year commitment, but I honestly really want to stay longer. I do see myself as a life-long teacher and learner. I am fascinated by how people learn, and how I can make course material that can help everyone learn the content. But at the same time I am glad to have a self-imposed deadline of 10 years of teaching. It helps me realize my time at the school is finite, and how I can start building a legacy for our CS program at our school so that even when I leave, it will continue to flourish. "How do I make myself replaceable?"
+
+I just finished year 5 of teaching, and it is only after this past year that I feel like I have begun laying the foundation of a CS program and legacy. This post started out talking about rest and recovery, but really it is about the larger framework of continuing to learn and improve as a teacher. As I spend more time in this profession, I hope I continue learning about not only how to teach, but also how to be a leader on campus and help other teachers as well. Here's to 5 more years.

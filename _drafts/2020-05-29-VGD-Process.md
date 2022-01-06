@@ -8,7 +8,7 @@ Today is the first day of summer 'break'... and I am ready to put some full-time
 Some backstory on the process:
 - Physics to Comp Sci
 - Week before, teaching VGD!
-- Ask fellow teachers what they're doing. Find resources (books) left behind by previous teacher (fired). Do my own research and buy books online (Bond).
+- Ask fellow teachers what they're doing. Find resources (books) left behind by previous teacher. Do my own research and buy books online (Bond).
 - First year: What I did
 - Second year: What I did
 - Third year: What I did
@@ -17,5 +17,8 @@ Some backstory on the process:
 2. Sam Adlis and Kristine Chen collaboration
 3. Reading through old VGD and in general game design books
 4. Perusing online forums
+5. Taking Game Development courses online
+
+
 
 
