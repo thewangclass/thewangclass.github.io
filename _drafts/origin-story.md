@@ -1,3 +1,23 @@
+<!-- Born
+
+Before School
+
+Elementary School
+
+Middle School
+
+High School
+
+College
+
+Post-College
+
+Working
+
+Current -->
+
+# My Origin Story
+
 One thing I should mention is we lived very close to UTMB. I remember going on walks in the park, going to the beach, and most of all my grandparents taking care of me. My parents tell me I didn't talk until I was 3 years old. They were worried about me because apparently babies talk earlier. However, I may have just been confused because I heard the Shandong dialect from my grandparents, English from others, and Chinese from still others.
 
 My next memory is of going to William Temple preschool, where I quickly made friends with others in this daycare. The daycare people loved me and I really enjoyed my time there. I obtained a GameBoy at some point in time and quickly made a name for myself with my Yellow version and Silver version. I remember spending countless hours playing Pokemon, helping train other peoples' pokemon, and playing more Pokemon to the point where I could go through the entire cave between Cerulean city and Celadon city without Flash. Greatest accomplishment of that time. 
@@ -44,5 +64,6 @@ I went to Bauerschlag Elementary School, home of the Baueschlag Bears. Trudy Kni
 
 I started playing violin winter of 5th grade. I had the same teacher as my friend. I tried out for orchestra and made Symphony orchestra, the #2 orchestra. Not bad for only 3-4 months of playing, but I think my piano playing helped me because I already knew how to read music. 
 
-
+---
+Middle school time. 
 
